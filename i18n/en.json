@@ -35,6 +35,21 @@
         "INTRO": {
             "PRE": "Hello! My name is ",
             "POST": "I'm a"
+        },
+        "SOCIAL": {
+            "LI": "LinkedIn",
+            "GH": "Github",
+            "RM": "Download Resume"
+        },
+        "ABOUT": {
+            "HEAD": "About Me",
+            "GIT": "Get In Touch",
+            "P1": "I am a passionate software engineer with a strong foundation in both frontend and backend development. My journey began in 2019 as a web developer, where I worked with technologies like PHP and Node.js, building scalable and efficient applications. Over time, I expanded my expertise into enterprise solutions using Java, mobile development with Android Studio and Flutter, and modern web frameworks like Vue and Angular.",
+            "P2": "In recent years, I have focused on automation, trading systems, and AI-driven platforms. I specialize in developing high-performance trading bots, optimizing RPC infrastructure, and building Telegram-based applications with seamless user experiences. My work involves real-time data processing, algorithmic trading strategies, and integrating AI models to enhance decision-making.",
+            "P3": "As I continue to refine my technical and analytical skills, I aim to bridge the gap between technology and business. My long-term goal is to pursue an MBA to expand my strategic vision, enabling me to scale innovative solutions in fintech, automation, and AI-driven applications."
+        },
+        "EXTRA": {
+            "HEAD": "More..."
         }
     }
 }
