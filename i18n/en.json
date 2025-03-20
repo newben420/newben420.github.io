@@ -25,6 +25,15 @@
             "HOME": "Home",
             "SKILLS": "Skills",
             "PROJECTS": "Projects"
+        },
+        "TITLE": {
+            "WD": "Web Developer",
+            "MD": "Mobile Developer",
+            "PR": "Programmer"
+        },
+        "INTRO": {
+            "PRE": "Hello! My name is ",
+            "POST": "I'm a"
         }
     }
 }
