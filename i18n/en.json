@@ -27,9 +27,10 @@
             "PROJECTS": "Projects"
         },
         "TITLE": {
-            "WD": "Web Developer",
-            "MD": "Mobile Developer",
-            "PR": "Programmer"
+            "SE": "Software Engineer",
+            "BD": "Blockchain Dev.",
+            "ATD": "Trading Algo Dev.",
+            "AE": "ML & AI Dev."
         },
         "INTRO": {
             "PRE": "Hello! My name is ",
