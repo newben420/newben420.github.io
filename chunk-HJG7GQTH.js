@@ -1,0 +1,1 @@
+import{Ab as o,Bb as l,Rb as i,f as n,ib as s}from"./chunk-LEZF76GM.js";n();var p=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=s({type:t,selectors:[["app-skills"]],decls:2,vars:0,template:function(e,m){e&1&&(o(0,"p"),i(1,"skills works!"),l())},encapsulation:2})};export{p as SkillsComponent};
