@@ -49,7 +49,7 @@
             "P3": "As I continue to refine my technical and analytical skills, I aim to bridge the gap between technology and business. My long-term goal is to pursue an MBA to expand my strategic vision, enabling me to scale innovative solutions in fintech, automation, and AI-driven applications."
         },
         "EXTRA": {
-            "HEAD": "More Details",
+            "HEAD": "Beyond the Code",
             "EDU": {
                 "HEAD": "Education"
             },
@@ -61,7 +61,18 @@
                 "WD2": "Enhanced user interfaces, boosting user satisfaction by 15%.",
                 "WD3": "Diagnosed and resolved critical bugs across DIT and SIT phases, improving deployment success rates by 25%.",
                 "WD4": "Coordinated with cross-functional teams to ensure on-time and in-full project delivery, improving overall project efciency by 10%."
+            },
+            "CERT": {
+                "HEAD": "Certification"
             }
+        },
+        "SKILLS": {
+            "HEAD": "My Skills",
+            "C1": "Languages",
+            "C2": "Frameworks & Libraries",
+            "C3": "Databases",
+            "C4": "Tools",
+            "C5": "Cloud & Platforms"
         }
     }
 }
