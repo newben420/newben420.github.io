@@ -27,7 +27,7 @@
             "PROJECTS": "Projects"
         },
         "TITLE": {
-            "SE": "Software Engineer",
+            "SE": "Full-stack Developer",
             "BD": "Blockchain Dev.",
             "ATD": "Trading Algo Dev.",
             "AE": "ML & AI Dev."
@@ -73,6 +73,26 @@
             "C3": "Databases",
             "C4": "Tools",
             "C5": "Cloud & Platforms"
+        },
+        "PROJECTS": {
+            "HEAD": "Featured Projects",
+            "DESC": {
+                "AN": "A Telegram bot for receiving anonymous messages, with web support for non-Telegram users. Reply anonymously, manage links, and share text or media securely.",
+                "FL": "A fast, lightweight crypto trading system that refines signals for improved accuracy and automation.",
+                "GU": "A web-based utility for fetching, categorizing, summarizing and managing global news and articles using the GDELT 2.0 API. Designed for content creators, news aggregators, and researchers, this tool simplifies access to up-to-date articles with an intuitive UI and customizable configurations.",
+                "LG": "A semi-automated AI-enhanced news aggregator platform for Nigeria's space.",
+                "PT": "A dynamic and interactive showcase of my work, skills, and projects. Designed for clarity and engagement, it highlights my expertise across various technologies, featuring live project demos and insights into my development journey. Built with flexibility and scalability in mind, it serves as both a portfolio and a hub for ongoing innovations.",
+                "IM": "A Windows-based inventory management system built in Visual Studio 2019. It features item categorization, expense tracking, and inventory management, providing a simple yet effective solution for tracking stock and expenses. Developed as a sixth-semester project.",
+                "WK": "A real-time automated virtual match prediction platform for sport betting sites. Discontinued because despite what the public is made to believe. Actual outcomes are not computed based on results and statistics, but after all bets are placed to ensure that platform always wins."
+            },
+            "STATUS": {
+                "ONLINE": "Online",
+                "OFFLINE": "Offline",
+                "INPROGRESS": "In Progress",
+                "DEPLOYED": "Deployed",
+                "RETIRED": "Retired"
+            }
         }
-    }
+    },
+    "VISIT": "Visit"
 }

@@ -1,0 +1,98 @@
+{
+    "YES": "I",
+    "NO": "A'a",
+    "ON": "A kan",
+    "OFF": "Katse lantarki",
+    "OK": "KO! ",
+    "SAVE": "Ceta",
+    "NOTHING_T": "Babu trades da aka yi tukuna.",
+    "INP_ERR": "Akwai wani abu da ba daidai ba tare da shigarwar ku.",
+    "CANCEL": "Warware",
+    "DELETE": "Share",
+    "UPDATE": "Sabuntawa",
+    "SUBMIT": "Yi biyayya",
+    "CHANGE_PREF_LANGUAGE": "Canza harshen da aka fi so",
+    "ACCESS_DENIED": "An hana shiga.",
+    "SURE": "Ka tabbata?",
+    "FAILED": "Aiki ya kasa.",
+    "SUCCESS": "Aiki nasara.",
+    "SERVER": "An ci karo da kuskuren sabar. ",
+    "UNKNOWN": "An karɓi amsar da ba a sani ba daga hanyar dubawa.",
+    "INTERFACE": "Ba za a iya kafa haɗin haɗi tare da dubawa ba.",
+    "WRONG_REQUEST": "Tambaya mara amfani.",
+    "NAT": {
+        "NAV": {
+            "HOME": "Gida",
+            "SKILLS": "Gwaninta",
+            "PROJECTS": "Aikin"
+        },
+        "TITLE": {
+            "SE": "Cikakken mai samarwa",
+            "BD": "BlockChain Ment.",
+            "ATD": "Ciniki SVOV.",
+            "AE": "ML & AI DEV."
+        },
+        "INTRO": {
+            "PRE": "Sannu!  ",
+            "POST": "Ni a"
+        },
+        "SOCIAL": {
+            "LI": "LinkedIn",
+            "GH": "Github",
+            "RM": "Zazzage sake ci gaba"
+        },
+        "ABOUT": {
+            "HEAD": "Akai na",
+            "GIT": "Shiga ciki",
+            "P1": "Ni mai son injina ne mai son software tare da tushe mai karfi a duka fronted da kuma kwarin gwiwa. ",
+            "P2": "A cikin 'yan shekarun nan, na mai da hankali kan atomatik, tsarin ciniki, da kuma dandamali AI-fitar da dandamali. ",
+            "P3": "Kamar yadda nayi ci gaba da tsaftace dabarun fasaha da nazarin nazarin, Ina nufin gado bagin tsakanin fasaha da kasuwanci. "
+        },
+        "EXTRA": {
+            "HEAD": "Bayan lambar",
+            "EDU": {
+                "HEAD": "Ilmi"
+            },
+            "WORK": {
+                "HEAD": "Gwanintan aiki",
+                "RM": "M",
+                "OS": "Kan-site",
+                "WD1": "Ci gaba da hade da hutawa da sabulu apis, inganta lokutan amsa da kashi 20%.",
+                "WD2": "Ingantaccen musayar mai amfani, haɓaka gamsuwa da 15%.",
+                "WD3": "An gano da warware kwari masu mahimmanci a kan dit kuma suna zama matakai, inganta nasarar nasarar jigilar kayayyaki ya ragu da 25%.",
+                "WD4": "Hadin gwiwar kungiyoyi masu aiki don tabbatar da zamani da kuma cikakkiyar isar da aikin ci gaba, inganta ayyukan tiyata gaba daya ta 10%."
+            },
+            "CERT": {
+                "HEAD": "Ba da takardar shaida"
+            }
+        },
+        "SKILLS": {
+            "HEAD": "Gwanina",
+            "C1": "Yare",
+            "C2": "Tsarin Kasuwanci & Karatun",
+            "C3": "Bayanai",
+            "C4": "Kayan aikin",
+            "C5": "Clouds & dandamali"
+        },
+        "PROJECTS": {
+            "HEAD": "Ayyukan da aka nuna",
+            "DESC": {
+                "AN": "Telegroro bot don karɓar saƙonni marasa amfani, tare da tallafin yanar gizo don masu amfani da telegrag. ",
+                "FL": "Tsarin kasuwancin da sauri, yanayin kula da wutar lantarki wanda yake ƙarfafa sigina don ingantacciyar daidaito da atomatik.",
+                "GU": "Amfani da tushen yanar gizo don kawo feetching, rarrabuwa, takaita da gudanar da labarai na duniya da labaran amfani da GDelt 2.0 api. ",
+                "LG": "Wani dandalin AIGI-mai sarrafa kansa-mai sarrafa kai na AIDI na ASHIGED DANGREGORD DON WANNAN LABARI.",
+                "PT": "Wani mai tsauri da kuma ma'amala na aiki na aikina, dabarun, da ayyukan. ",
+                "IM": "Tsarin aikin sarrafa kayan windows-tushen da aka gina a cikin studio studio 2019. Yana fasalta abu rarrabe, kashe kudi, samar da mafi inganci har yanzu tasiri mai sauki don bin diddigin hannun jari da kudi. ",
+                "WK": "Ainihin-lokacin atomatik Charfin Haɗin kai tsaye don shafukan wasan caca don wasanni na wasanni. "
+            },
+            "STATUS": {
+                "ONLINE": "Kan layi",
+                "OFFLINE": "A layi",
+                "INPROGRESS": "Ana kai",
+                "DEPLOYED": "An kunna",
+                "RETIRED": "Ritaya"
+            }
+        }
+    },
+    "VISIT": "Ziyarta"
+}

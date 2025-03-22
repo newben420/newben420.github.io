@@ -1,0 +1,98 @@
+{
+    "YES": "Sí",
+    "NO": "No",
+    "ON": "En",
+    "OFF": "Apagado",
+    "OK": "¡DE ACUERDO! ",
+    "SAVE": "Ahorrar",
+    "NOTHING_T": "No se realizan intercambios.",
+    "INP_ERR": "Hay algo mal con su aporte.",
+    "CANCEL": "Cancelar",
+    "DELETE": "Borrar",
+    "UPDATE": "Actualizar",
+    "SUBMIT": "Entregar",
+    "CHANGE_PREF_LANGUAGE": "Cambiar lenguaje preferido",
+    "ACCESS_DENIED": "Acceso denegado.",
+    "SURE": "¿Está seguro?",
+    "FAILED": "La operación falló.",
+    "SUCCESS": "Operación exitosa.",
+    "SERVER": "Se encontró un error de servidor. ",
+    "UNKNOWN": "Se recibió una respuesta desconocida de la interfaz.",
+    "INTERFACE": "No se pudo establecer una conexión con la interfaz.",
+    "WRONG_REQUEST": "Solicitud no válida.",
+    "NAT": {
+        "NAV": {
+            "HOME": "Hogar",
+            "SKILLS": "Habilidades",
+            "PROJECTS": "Proyectos"
+        },
+        "TITLE": {
+            "SE": "Desarrollador de pila completa",
+            "BD": "Blockchain Dev.",
+            "ATD": "Trading Algo Dev.",
+            "AE": "ML y AI Dev."
+        },
+        "INTRO": {
+            "PRE": "¡Hola!  ",
+            "POST": "Soy un"
+        },
+        "SOCIAL": {
+            "LI": "LinkedIn",
+            "GH": "Github",
+            "RM": "Descargar currículum"
+        },
+        "ABOUT": {
+            "HEAD": "Acerca de mí",
+            "GIT": "Ponerse en contacto",
+            "P1": "Soy un ingeniero de software apasionado con una base sólida tanto en el desarrollo frontend como en el desarrollo de backend. ",
+            "P2": "En los últimos años, me he centrado en la automatización, los sistemas comerciales y las plataformas impulsadas por la IA. ",
+            "P3": "A medida que continúo refinando mis habilidades técnicas y analíticas, su objetivo es cerrar la brecha entre la tecnología y el negocio. "
+        },
+        "EXTRA": {
+            "HEAD": "Más allá del código",
+            "EDU": {
+                "HEAD": "Educación"
+            },
+            "WORK": {
+                "HEAD": "Experiencia laboral",
+                "RM": "Remoto",
+                "OS": "In situ",
+                "WD1": "API desarrolladas e integradas de descanso y jabón, mejorando los tiempos de respuesta en un 20%.",
+                "WD2": "Interfaces de usuario mejoradas, lo que aumenta la satisfacción del usuario en un 15%.",
+                "WD3": "Los errores críticos diagnosticados y resueltos en las fases DIT y SIT, mejorando las tasas de éxito de la implementación en un 25%.",
+                "WD4": "Coordinados con equipos interfuncionales para garantizar la entrega de proyectos a tiempo e integral, mejorando la eficiencia general del proyecto en un 10%."
+            },
+            "CERT": {
+                "HEAD": "Proceso de dar un título"
+            }
+        },
+        "SKILLS": {
+            "HEAD": "Mis habilidades",
+            "C1": "Lenguas",
+            "C2": "Marcos y bibliotecas",
+            "C3": "Bases de datos",
+            "C4": "Herramientas",
+            "C5": "Nube y plataformas"
+        },
+        "PROJECTS": {
+            "HEAD": "Proyectos destacados",
+            "DESC": {
+                "AN": "Un bot de telegrama para recibir mensajes anónimos, con soporte web para usuarios que no son de Telegram. ",
+                "FL": "Un sistema de comercio criptográfico rápido y ligero que refina las señales para mejorar la precisión y la automatización.",
+                "GU": "Una utilidad basada en la web para obtener, categorizar, resumir y administrar noticias y artículos globales utilizando la API GDELT 2.0. ",
+                "LG": "Una plataforma de agregador de noticias AI-AI-AIS semiautomatizada para el espacio de Nigeria.",
+                "PT": "Una muestra dinámica e interactiva de mi trabajo, habilidades y proyectos. ",
+                "IM": "Un sistema de gestión de inventario basado en Windows Built in Visual Studio 2019. Cuenta con categorización de elementos, seguimiento de gastos y gestión de inventario, proporcionando una solución simple pero efectiva para rastrear existencias y gastos. ",
+                "WK": "Una plataforma de predicción de partidos virtuales automatizados en tiempo real para sitios de apuestas deportivas. "
+            },
+            "STATUS": {
+                "ONLINE": "En línea",
+                "OFFLINE": "Desconectado",
+                "INPROGRESS": "En curso",
+                "DEPLOYED": "Desplegado",
+                "RETIRED": "Jubilado"
+            }
+        }
+    },
+    "VISIT": "Visita"
+}

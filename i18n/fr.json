@@ -1,0 +1,98 @@
+{
+    "YES": "Oui",
+    "NO": "Non",
+    "ON": "Sur",
+    "OFF": "Désactivé",
+    "OK": "D'ACCORD! ",
+    "SAVE": "Sauvegarder",
+    "NOTHING_T": "Aucun métier ne faisait encore.",
+    "INP_ERR": "Il y a quelque chose qui ne va pas avec votre contribution.",
+    "CANCEL": "Annuler",
+    "DELETE": "Supprimer",
+    "UPDATE": "Mise à jour",
+    "SUBMIT": "Soumettre",
+    "CHANGE_PREF_LANGUAGE": "Changer la langue préférée",
+    "ACCESS_DENIED": "Accès refusé.",
+    "SURE": "Es-tu sûr?",
+    "FAILED": "L'opération a échoué.",
+    "SUCCESS": "Opération réussie.",
+    "SERVER": "Une erreur de serveur a été rencontrée. ",
+    "UNKNOWN": "Une réponse inconnue a été reçue de l'interface.",
+    "INTERFACE": "Une connexion n'a pas pu être établie avec l'interface.",
+    "WRONG_REQUEST": "Demande non valide.",
+    "NAT": {
+        "NAV": {
+            "HOME": "Maison",
+            "SKILLS": "Compétences",
+            "PROJECTS": "Projets"
+        },
+        "TITLE": {
+            "SE": "Développeur complet",
+            "BD": "Blockchain Dev.",
+            "ATD": "Trading Algo Dev.",
+            "AE": "ML & AI DEV."
+        },
+        "INTRO": {
+            "PRE": "Bonjour!  ",
+            "POST": "Je suis un"
+        },
+        "SOCIAL": {
+            "LI": "LinkedIn",
+            "GH": "Github",
+            "RM": "Télécharger le CV"
+        },
+        "ABOUT": {
+            "HEAD": "Sur moi",
+            "GIT": "Entrer en contact",
+            "P1": "Je suis un ingénieur logiciel passionné avec une base solide à la fois dans le développement frontal et backend. ",
+            "P2": "Ces dernières années, je me suis concentré sur l'automatisation, les systèmes commerciaux et les plateformes axées sur l'IA. ",
+            "P3": "Alors que je continue d'affiner mes compétences techniques et analytiques, je vise à combler le fossé entre la technologie et les entreprises. "
+        },
+        "EXTRA": {
+            "HEAD": "Au-delà du code",
+            "EDU": {
+                "HEAD": "Éducation"
+            },
+            "WORK": {
+                "HEAD": "Expérience de travail",
+                "RM": "Télécommande",
+                "OS": "Sur place",
+                "WD1": "API de repos et de savon développé et intégré, améliorant les temps de réponse de 20%.",
+                "WD2": "Interfaces utilisateur améliorées, augmentant la satisfaction de l'utilisateur de 15%.",
+                "WD3": "Les bogues critiques diagnostiqués et résolus entre les phases DIT et SIT, améliorant les taux de réussite du déploiement de 25%.",
+                "WD4": "Coordonné avec des équipes interfonctionnelles pour assurer la livraison de projets à temps et à plein référence, améliorant l'efficacité globale du projet de 10%."
+            },
+            "CERT": {
+                "HEAD": "Certification"
+            }
+        },
+        "SKILLS": {
+            "HEAD": "Mes compétences",
+            "C1": "Langues",
+            "C2": "Frameworks et bibliothèques",
+            "C3": "Bases de données",
+            "C4": "Outils",
+            "C5": "Cloud et plateformes"
+        },
+        "PROJECTS": {
+            "HEAD": "Projets en vedette",
+            "DESC": {
+                "AN": "Un bot télégramme pour recevoir des messages anonymes, avec une prise en charge Web pour les utilisateurs non-télégrammes. ",
+                "FL": "Un système de trading de cryptographie léger et léger qui affine des signaux pour une précision et une automatisation améliorées.",
+                "GU": "Un utilitaire Web pour récupérer, catégoriser, résumer et gérer les nouvelles et les articles mondiaux à l'aide de l'API GDELT 2.0. ",
+                "LG": "Une plate-forme d'agrégateur de nouvelles à amélioration de l'AI-AI-Automée pour l'espace du Nigéria.",
+                "PT": "Une vitrine dynamique et interactive de mon travail, de mes compétences et de mes projets. ",
+                "IM": "Un système de gestion des stocks basé sur Windows intégré à Visual Studio 2019. Il dispose de catégorisation d'élément, de suivi des dépenses et de gestion des stocks, fournissant une solution simple mais efficace pour le suivi des actions et des dépenses. ",
+                "WK": "Une plate-forme de prédiction de match virtuelle automatisée en temps réel pour les sites de paris sportifs. "
+            },
+            "STATUS": {
+                "ONLINE": "En ligne",
+                "OFFLINE": "Hors ligne",
+                "INPROGRESS": "En cours",
+                "DEPLOYED": "Déployé",
+                "RETIRED": "À la retraite"
+            }
+        }
+    },
+    "VISIT": "Visite"
+}
