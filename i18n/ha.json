@@ -32,9 +32,17 @@
             "ATD": "Ciniki SVOV.",
             "AE": "ML & AI DEV."
         },
+        "ACT": {
+            "RES": "bincike",
+            "DES": "zayyana",
+            "IMP": "aiwatarwa",
+            "UTL": "amfani"
+        },
         "INTRO": {
-            "PRE": "Sannu!  ",
-            "POST": "Ni a"
+            "PRE": "Sannu! Sunana ",
+            "POST": "Ni ",
+            "POST1": "Ina ",
+            "POST2": "Tsarin Kasuwanci da Dabarun Kasuwanci."
         },
         "SOCIAL": {
             "LI": "LinkedIn",

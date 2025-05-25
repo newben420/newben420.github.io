@@ -32,9 +32,17 @@
             "ATD": "Trading Algo Dev.",
             "AE": "ML & AI DEV."
         },
+        "ACT": {
+            "RES": "recherche",
+            "DES": "concevoir",
+            "IMP": "implémenter",
+            "UTL": "utiliser"
+        },
         "INTRO": {
-            "PRE": "Bonjour!  ",
-            "POST": "Je suis un"
+            "PRE": "Bonjour ! Je m'appelle ",
+            "POST": "Je suis ",
+            "POST1": "Je ",
+            "POST2": "Systèmes et stratégies de trading."
         },
         "SOCIAL": {
             "LI": "LinkedIn",

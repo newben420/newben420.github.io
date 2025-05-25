@@ -32,9 +32,17 @@
             "ATD": "交易算法开发。",
             "AE": "ML＆AI DEV。"
         },
+        "ACT": {
+            "RES": "研究",
+            "DES": "设计",
+            "IMP": "实施",
+            "UTL": "利用"
+        },
         "INTRO": {
-            "PRE": "你好！ ",
-            "POST": "我是一个"
+            "PRE": "你好！我叫 ",
+            "POST": "我是 ",
+            "POST1": "我 ",
+            "POST2": "交易系统和策略。"
         },
         "SOCIAL": {
             "LI": "LinkedIn",
