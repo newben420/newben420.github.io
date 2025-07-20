@@ -1,48 +1,40 @@
 {
     "YES": "Oui",
     "NO": "Non",
-    "ON": "Sur",
+    "ON": "Activé",
     "OFF": "Désactivé",
-    "OK": "D'ACCORD! ",
-    "SAVE": "Sauvegarder",
-    "NOTHING_T": "Aucun métier ne faisait encore.",
-    "INP_ERR": "Il y a quelque chose qui ne va pas avec votre contribution.",
+    "OK": "OK ! Compris",
+    "SAVE": "Enregistrer",
+    "NOTHING_T": "Aucune transaction effectuée pour le moment.",
+    "INP_ERR": "Il y a un problème avec votre saisie.",
     "CANCEL": "Annuler",
     "DELETE": "Supprimer",
-    "UPDATE": "Mise à jour",
+    "UPDATE": "Mettre à jour",
     "SUBMIT": "Soumettre",
     "CHANGE_PREF_LANGUAGE": "Changer la langue préférée",
     "ACCESS_DENIED": "Accès refusé.",
-    "SURE": "Es-tu sûr?",
-    "FAILED": "L'opération a échoué.",
+    "SURE": "Êtes-vous sûr ?",
+    "FAILED": "Opération échouée.",
     "SUCCESS": "Opération réussie.",
-    "SERVER": "Une erreur de serveur a été rencontrée. ",
+    "SERVER": "Une erreur de serveur a été rencontrée. Veuillez réessayer.",
     "UNKNOWN": "Une réponse inconnue a été reçue de l'interface.",
     "INTERFACE": "Une connexion n'a pas pu être établie avec l'interface.",
-    "WRONG_REQUEST": "Demande non valide.",
+    "WRONG_REQUEST": "Requête invalide.",
     "NAT": {
         "NAV": {
-            "HOME": "Maison",
+            "HOME": "Accueil",
             "SKILLS": "Compétences",
             "PROJECTS": "Projets"
         },
         "TITLE": {
-            "SE": "Développeur complet",
-            "BD": "Blockchain Dev.",
-            "ATD": "Trading Algo Dev.",
-            "AE": "ML & AI DEV."
-        },
-        "ACT": {
-            "RES": "recherche",
-            "DES": "concevoir",
-            "IMP": "implémenter",
-            "UTL": "utiliser"
+            "SE": "Développeur Full-stack",
+            "BD": "Développeur Blockchain",
+            "ATD": "Développeur d'algorithmes de trading",
+            "AE": "Développeur ML et IA"
         },
         "INTRO": {
             "PRE": "Bonjour ! Je m'appelle ",
-            "POST": "Je suis ",
-            "POST1": "Je ",
-            "POST2": "Systèmes et stratégies de trading."
+            "POST": "Je suis"
         },
         "SOCIAL": {
             "LI": "LinkedIn",
@@ -50,33 +42,33 @@
             "RM": "Télécharger le CV"
         },
         "ABOUT": {
-            "HEAD": "Sur moi",
-            "GIT": "Entrer en contact",
-            "P1": "Je suis un ingénieur logiciel passionné avec une base solide à la fois dans le développement frontal et backend. ",
-            "P2": "Ces dernières années, je me suis concentré sur l'automatisation, les systèmes commerciaux et les plateformes axées sur l'IA. ",
-            "P3": "Alors que je continue d'affiner mes compétences techniques et analytiques, je vise à combler le fossé entre la technologie et les entreprises. "
+            "HEAD": "À propos de moi",
+            "GIT": "Me contacter",
+            "P1": "Je suis un ingénieur logiciel passionné avec une solide expertise en développement frontend et backend. Mon parcours a débuté en 2019 en tant que développeur web, travaillant avec des technologies comme PHP et Node.js pour créer des applications évolutives et performantes. Au fil du temps, j'ai élargi mes compétences vers des solutions d'entreprise avec Java, le développement mobile avec Android Studio et Flutter, ainsi que des frameworks web modernes comme Vue et Angular.",
+            "P2": "Ces dernières années, je me suis concentré sur l'automatisation, les systèmes de trading et les plateformes pilotées par l'IA. Je me spécialise dans le développement de bots de trading haute performance, l'optimisation d'infrastructures RPC et la création d'applications basées sur Telegram avec des expériences utilisateur fluides. Mon travail inclut le traitement de données en temps réel, des stratégies de trading algorithmique et l'intégration de modèles d'IA pour améliorer la prise de décision.",
+            "P3": "Tout en continuant à affiner mes compétences techniques et analytiques, je cherche à combler le fossé entre technologie et affaires. Mon objectif à long terme est de poursuivre un MBA pour élargir ma vision stratégique, me permettant de développer des solutions innovantes dans les domaines de la fintech, de l'automatisation et des applications basées sur l'IA."
         },
         "EXTRA": {
             "HEAD": "Au-delà du code",
             "EDU": {
-                "HEAD": "Éducation"
+                "HEAD": "Formation"
             },
             "WORK": {
-                "HEAD": "Expérience de travail",
-                "RM": "Télécommande",
-                "OS": "Sur place",
-                "WD1": "API de repos et de savon développé et intégré, améliorant les temps de réponse de 20%.",
-                "WD2": "Interfaces utilisateur améliorées, augmentant la satisfaction de l'utilisateur de 15%.",
-                "WD3": "Les bogues critiques diagnostiqués et résolus entre les phases DIT et SIT, améliorant les taux de réussite du déploiement de 25%.",
-                "WD4": "Coordonné avec des équipes interfonctionnelles pour assurer la livraison de projets à temps et à plein référence, améliorant l'efficacité globale du projet de 10%."
+                "HEAD": "Expérience professionnelle",
+                "RM": "À distance",
+                "OS": "Sur site",
+                "WD1": "Développement et intégration d'APIs REST et SOAP, améliorant les temps de réponse de 20 %.",
+                "WD2": "Amélioration des interfaces utilisateur, augmentant la satisfaction des utilisateurs de 15 %.",
+                "WD3": "Diagnostic et résolution de bugs critiques lors des phases DIT et SIT, améliorant les taux de succès de déploiement de 25 %.",
+                "WD4": "Coordination avec des équipes pluridisciplinaires pour garantir une livraison de projets dans les délais et complète, améliorant l'efficacité globale des projets de 10 %."
             },
             "CERT": {
-                "HEAD": "Certification"
+                "HEAD": "Certifications"
             }
         },
         "SKILLS": {
             "HEAD": "Mes compétences",
-            "C1": "Langues",
+            "C1": "Langages",
             "C2": "Frameworks et bibliothèques",
             "C3": "Bases de données",
             "C4": "Outils",
@@ -85,22 +77,26 @@
         "PROJECTS": {
             "HEAD": "Projets en vedette",
             "DESC": {
-                "AN": "Un bot télégramme pour recevoir des messages anonymes, avec une prise en charge Web pour les utilisateurs non-télégrammes. ",
-                "FL": "Un système de trading de cryptographie léger et léger qui affine des signaux pour une précision et une automatisation améliorées.",
-                "GU": "Un utilitaire Web pour récupérer, catégoriser, résumer et gérer les nouvelles et les articles mondiaux à l'aide de l'API GDELT 2.0. ",
-                "LG": "Une plate-forme d'agrégateur de nouvelles à amélioration de l'AI-AI-Automée pour l'espace du Nigéria.",
-                "PT": "Une vitrine dynamique et interactive de mon travail, de mes compétences et de mes projets. ",
-                "IM": "Un système de gestion des stocks basé sur Windows intégré à Visual Studio 2019. Il dispose de catégorisation d'élément, de suivi des dépenses et de gestion des stocks, fournissant une solution simple mais efficace pour le suivi des actions et des dépenses. ",
-                "WK": "Une plate-forme de prédiction de match virtuelle automatisée en temps réel pour les sites de paris sportifs. "
+                "AN": "Un bot Telegram pour recevoir des messages anonymes, avec un support web pour les utilisateurs non inscrits sur Telegram. Répondez anonymement, gérez les liens et partagez du texte ou des médias en toute sécurité.",
+                "FL": "Un système de trading crypto rapide et léger qui affine les signaux pour une meilleure précision et automatisation.",
+                "GU": "Une utilité web pour récupérer, catégoriser, résumer et gérer des actualités et articles mondiaux à l'aide de l'API GDELT 2.0. Conçue pour les créateurs de contenu, les agrégateurs de nouvelles et les chercheurs, cet outil simplifie l'accès à des articles à jour avec une interface intuitive et des configurations personnalisables.",
+                "LG": "Un agrégateur de nouvelles offline-first pour le Nigeria. Il comprend une application mobile en React Native, un panneau d'administration en Angular et un pipeline profondément intégré qui automatise la collecte, le traitement et la livraison des nouvelles. Le système inclut une curation assistée par IA, une synchronisation fluide, des liens dynamiques profonds et un site d'atterrissage optimisé pour le SEO. Conçu pour être modulaire et facilement rebrandable, il est adaptable à n'importe quelle région avec des modifications de configuration minimales.",
+                "PT": "Une vitrine dynamique et interactive de mon travail, mes compétences et mes projets. Conçue pour la clarté et l'engagement, elle met en avant mon expertise dans diverses technologies, avec des démonstrations de projets en direct et des insights sur mon parcours de développement. Construite avec flexibilité et évolutivité à l'esprit, elle sert à la fois de portfolio et de hub pour les innovations en cours.",
+                "IM": "Un système de gestion d'inventaire basé sur Windows, construit dans Visual Studio 2019. Il inclut la catégorisation des articles, le suivi des dépenses et la gestion des stocks, offrant une solution simple mais efficace pour suivre les stocks et les dépenses. Développé comme projet de sixième semestre.",
+                "WK": "Une plateforme de prédiction de matchs virtuels automatisée en temps réel pour les sites de paris sportifs. Abandonnée car, contrairement à ce que le public croit, les résultats réels ne sont pas calculés sur la base de résultats et de statistiques, mais après que tous les paris ont été placés pour garantir que la plateforme gagne toujours.",
+                "TR": "Une application de transport public offline-first innovante conçue pour améliorer l'expérience d'utilisation de Tin City Metro à Jos, État du Plateau, Nigeria. Ce dépôt fournit un aperçu, des fichiers compilés (APK et IPA) et des captures d'écran à des fins de démonstration.",
+                "RG": "Un compagnon de prière catholique magnifiquement conçu, entièrement offline, qui guide les utilisateurs à travers le Saint Rosaire et la Couronne de la Miséricorde Divine. Conçu pour être immersif, intuitif et profondément spirituel.",
+                "KM": "Un système de signaux de trading Forex en temps réel qui combine l'analyse des données de chandeliers, un algorithme d'indicateurs en 7 étapes, des actualités financières en direct et un raisonnement de sentiment alimenté par LLM pour produire des entrées LONG/SHORT à haute confiance. Diffuse des informations détaillées sur les signaux à Telegram pour des alertes rapides et exploitables."
             },
             "STATUS": {
                 "ONLINE": "En ligne",
                 "OFFLINE": "Hors ligne",
                 "INPROGRESS": "En cours",
                 "DEPLOYED": "Déployé",
-                "RETIRED": "À la retraite"
+                "RETIRED": "Retiré",
+                "CONCLUDED": "Terminé"
             }
         }
     },
-    "VISIT": "Visite"
+    "VISIT": "Visiter"
 }

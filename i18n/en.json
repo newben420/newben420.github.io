@@ -32,17 +32,9 @@
             "ATD": "Trading Algo Dev.",
             "AE": "ML & AI Dev."
         },
-        "ACT": {
-            "RES": "research", 
-            "DES": "design", 
-            "IMP": "implement", 
-            "UTL": "utilize" 
-        },
         "INTRO": {
             "PRE": "Hello! My name is ",
-            "POST": "I'm a",
-            "POST1": "I",
-            "POST2": "Trading Systems and Strategies."
+            "POST": "I'm a"
         },
         "SOCIAL": {
             "LI": "LinkedIn",
@@ -88,17 +80,21 @@
                 "AN": "A Telegram bot for receiving anonymous messages, with web support for non-Telegram users. Reply anonymously, manage links, and share text or media securely.",
                 "FL": "A fast, lightweight crypto trading system that refines signals for improved accuracy and automation.",
                 "GU": "A web-based utility for fetching, categorizing, summarizing and managing global news and articles using the GDELT 2.0 API. Designed for content creators, news aggregators, and researchers, this tool simplifies access to up-to-date articles with an intuitive UI and customizable configurations.",
-                "LG": "A semi-automated AI-enhanced news aggregator platform for Nigeria's space.",
+                "LG": "Full-stack, offline-first news aggregator for Nigeria. It features a React Native mobile app, Angular admin panel, and a deeply integrated pipeline that automates news collection, processing, and delivery. The system includes AI-assisted curation, seamless sync, dynamic deep linking, and a SEO-optimized landing site. Built to be modular and easily rebranded, it's adaptable to any region with minimal config changes.",
                 "PT": "A dynamic and interactive showcase of my work, skills, and projects. Designed for clarity and engagement, it highlights my expertise across various technologies, featuring live project demos and insights into my development journey. Built with flexibility and scalability in mind, it serves as both a portfolio and a hub for ongoing innovations.",
                 "IM": "A Windows-based inventory management system built in Visual Studio 2019. It features item categorization, expense tracking, and inventory management, providing a simple yet effective solution for tracking stock and expenses. Developed as a sixth-semester project.",
-                "WK": "A real-time automated virtual match prediction platform for sport betting sites. Discontinued because despite what the public is made to believe. Actual outcomes are not computed based on results and statistics, but after all bets are placed to ensure that platform always wins."
+                "WK": "A real-time automated virtual match prediction platform for sport betting sites. Discontinued because despite what the public is made to believe. Actual outcomes are not computed based on results and statistics, but after all bets are placed to ensure that platform always wins.",
+                "TR": "An innovative, offline-first public transport utility app designed to enhance the experience of using Tin City Metro in Jos, Plateau State, Nigeria. This repository provides an overview, built files (APK and IPA), and screenshots for demonstration purposes.",
+                "RG": "A beautifully crafted, fully offline Catholic prayer companion that guides users through the Holy Rosary and the Divine Mercy Chaplet. Designed to be immersive, intuitive, and deeply spiritual.",
+                "KM": "A real-time Forex trading signal system that combines candlestick data analysis, a 7-step indicator algorithm, live financial headlines, and LLM-powered sentiment reasoning to produce high-confidence LONG/SHORT entries. Broadcasts detailed signal insights to Telegram for fast, actionable alerts."
             },
             "STATUS": {
                 "ONLINE": "Online",
                 "OFFLINE": "Offline",
                 "INPROGRESS": "In Progress",
                 "DEPLOYED": "Deployed",
-                "RETIRED": "Retired"
+                "RETIRED": "Retired",
+                "CONCLUDED": "Concluded"
             }
         }
     },
