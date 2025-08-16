@@ -87,7 +87,8 @@
                 "TR": "Une application de transport public offline-first innovante conçue pour améliorer l'expérience d'utilisation de Tin City Metro à Jos, État du Plateau, Nigeria. Ce dépôt fournit un aperçu, des fichiers compilés (APK et IPA) et des captures d'écran à des fins de démonstration.",
                 "RG": "Un compagnon de prière catholique magnifiquement conçu, entièrement offline, qui guide les utilisateurs à travers le Saint Rosaire et la Couronne de la Miséricorde Divine. Conçu pour être immersif, intuitif et profondément spirituel.",
                 "KM": "Un système de signaux de trading Forex en temps réel qui combine l'analyse des données de chandeliers, un algorithme d'indicateurs en 7 étapes, des actualités financières en direct et un raisonnement de sentiment alimenté par LLM pour produire des entrées LONG/SHORT à haute confiance. Diffuse des informations détaillées sur les signaux à Telegram pour des alertes rapides et exploitables.",
-                "EM": "Un traceur d'humeur multilingue qui privilégie la confidentialité, avec enregistrement hors ligne, insights d'IA et graphiques dynamiques dans le temps."
+                "EM": "Un traceur d'humeur multilingue qui privilégie la confidentialité, avec enregistrement hors ligne, insights d'IA et graphiques dynamiques dans le temps.",
+                "GT": "Une plateforme interactive en temps réel qui suit les tendances de l’actualité mondiale par pays, affichant des mots-clés classés accompagnés d’analyses de sentiment et de catégories thématiques. Elle fournit des informations instantanées sur l’évolution du ton des événements dans des domaines tels que la politique, l’économie, la santé et la culture, aidant journalistes, analystes et décideurs à rester informés grâce à des données claires et structurées."
             },
             "STATUS": {
                 "ONLINE": "En ligne",

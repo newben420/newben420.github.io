@@ -87,7 +87,8 @@
                 "TR": "An innovative, offline-first public transport utility app designed to enhance the experience of using Tin City Metro in Jos, Plateau State, Nigeria. This repository provides an overview, built files (APK and IPA), and screenshots for demonstration purposes.",
                 "RG": "A beautifully crafted, fully offline Catholic prayer companion that guides users through the Holy Rosary and the Divine Mercy Chaplet. Designed to be immersive, intuitive, and deeply spiritual.",
                 "KM": "A real-time Forex trading signal system that combines candlestick data analysis, a 7-step indicator algorithm, live financial headlines, and LLM-powered sentiment reasoning to produce high-confidence LONG/SHORT entries. Broadcasts detailed signal insights to Telegram for fast, actionable alerts.",
-                "EM": "A privacy-first, multilingual mood tracker with offline logging, AI insights, and dynamic charts across time."
+                "EM": "A privacy-first, multilingual mood tracker with offline logging, AI insights, and dynamic charts across time.",
+                "GT": "A real-time dashboard that ranks trending keywords by country, showing each item’s sentiment, topic labels, last update, and movement delta as trends rise or fall. Built for fast, server-rendered delivery with multilingual support and SEO-friendly pages, it provides a clean, always-live view of global news signals—letting analysts, journalists, and decision-makers monitor what’s gaining attention, where it’s happening, and how the tone is shifting."
             },
             "STATUS": {
                 "ONLINE": "Online",
