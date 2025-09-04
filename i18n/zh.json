@@ -39,7 +39,8 @@
         "SOCIAL": {
             "LI": "LinkedIn",
             "GH": "Github",
-            "RM": "下载简历"
+            "RM": "下载简历",
+            "EM": "电子邮件"
         },
         "ABOUT": {
             "HEAD": "关于我",

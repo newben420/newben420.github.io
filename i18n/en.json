@@ -39,7 +39,8 @@
         "SOCIAL": {
             "LI": "LinkedIn",
             "GH": "Github",
-            "RM": "Download Resume"
+            "RM": "Download Resume",
+            "EM": "Email"
         },
         "ABOUT": {
             "HEAD": "About Me",

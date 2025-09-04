@@ -39,7 +39,8 @@
         "SOCIAL": {
             "LI": "LinkedIn",
             "GH": "Github",
-            "RM": "Télécharger le CV"
+            "RM": "Télécharger le CV",
+            "EM": "Courriel"
         },
         "ABOUT": {
             "HEAD": "À propos de moi",
